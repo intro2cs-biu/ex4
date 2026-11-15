@@ -1,0 +1,39 @@
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are not balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are not balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Goodbye.

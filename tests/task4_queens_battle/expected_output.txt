@@ -1,0 +1,49 @@
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 10*10 puzzle board:
+Solution:
+* * * X * * * * * * 
+* * * * * * * * X * 
+X * * * * * * * * * 
+* * * * * * * * * X 
+* * X * * * * * * * 
+* * * * * X * * * * 
+* X * * * * * * * * 
+* * * * * * X * * * 
+* * * * X * * * * * 
+* * * * * * * X * * 
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 2*2 puzzle board:
+This puzzle cannot be solved.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 5*5 puzzle board:
+Solution:
+X * * * * 
+* * X * * 
+* * * * X 
+* X * * * 
+* * * X * 
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Goodbye.

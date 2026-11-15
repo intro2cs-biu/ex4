@@ -1,0 +1,42 @@
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please insert number of subjects:
+Please insert the list of subjects:
+1. 2. 3. Please insert number of verbs:
+Please insert the list of verbs:
+1. 2. Please insert number of objects:
+Please insert the list of objects:
+1. List of Sentences:
+1. The program executes the code
+2. The program debugs the code
+3. The compiler executes the code
+4. The compiler debugs the code
+5. The student executes the code
+6. The student debugs the code
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please insert number of subjects:
+Please insert the list of subjects:
+1. Please insert number of verbs:
+Please insert the list of verbs:
+1. Please insert number of objects:
+Please insert the list of objects:
+1. 2. 3. List of Sentences:
+1. I like C
+2. I like recursion
+3. I like very long terms inde
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Goodbye.

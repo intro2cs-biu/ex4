@@ -1,0 +1,9 @@
+2
+{a[b(c)d(e{2})f]g}
+2
+]{a[b(c]d)e}
+2
+([)]
+2
+no brackets here
+5

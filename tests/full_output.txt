@@ -1,0 +1,144 @@
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the weights of the cheerleaders:
+The total weight on each cheerleader is:
+51.18 
+81.49 156.84 
+109.80 252.83 211.24 
+108.33 320.92 366.09 227.25 
+126.47 323.24 514.75 448.00 206.95 
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the weights of the cheerleaders:
+Negative weights are not supported.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are not balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are not balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter a term for validation:
+The parentheses are balanced correctly.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please insert number of subjects:
+Please insert the list of subjects:
+1. 2. 3. Please insert number of verbs:
+Please insert the list of verbs:
+1. 2. Please insert number of objects:
+Please insert the list of objects:
+1. List of Sentences:
+1. The program executes the code
+2. The program debugs the code
+3. The compiler executes the code
+4. The compiler debugs the code
+5. The student executes the code
+6. The student debugs the code
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please insert number of subjects:
+Please insert the list of subjects:
+1. Please insert number of verbs:
+Please insert the list of verbs:
+1. Please insert number of objects:
+Please insert the list of objects:
+1. 2. 3. List of Sentences:
+1. I like C
+2. I like recursion
+3. I like very long terms inde
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 10*10 puzzle board:
+Solution:
+* * * X * * * * * * 
+* * * * * * * * X * 
+X * * * * * * * * * 
+* * * * * * * * * X 
+* * X * * * * * * * 
+* * * * * X * * * * 
+* X * * * * * * * * 
+* * * * * * X * * * 
+* * * * X * * * * * 
+* * * * * * * X * * 
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 2*2 puzzle board:
+This puzzle cannot be solved.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please enter the board dimensions:
+Please enter the 5*5 puzzle board:
+Solution:
+X * * * * 
+* * X * * 
+* * * * X 
+* X * * * 
+* * * X * 
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Please choose a task number from the list.
+Choose an option:
+1. The Human Pyramid
+2. Parenthesis Validation
+3. Generate Sentences
+4. Queens Battle
+5. Exit
+Goodbye.
