@@ -32,7 +32,7 @@ like
 3
 C
 recursion
-very long terms indeed
+a rather long phrase
 4
 10
 AABBCCCCCD
