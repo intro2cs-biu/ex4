@@ -85,7 +85,7 @@ Please insert the list of objects:
 1. 2. 3. List of Sentences:
 1. I like C
 2. I like recursion
-3. I like very long terms inde
+3. I like a rather long phrase
 Choose an option:
 1. The Human Pyramid
 2. Parenthesis Validation
