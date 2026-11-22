@@ -16,5 +16,5 @@ like
 3
 C
 recursion
-very long terms indeed
+a rather long phrase
 5
